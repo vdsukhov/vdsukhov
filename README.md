@@ -8,6 +8,7 @@ I'm a PhD student at ITMO Univeristy
 - <img src = "./icons/bioinformatics_v1.svg" width = "50"> - bioinformatics
 <br/>
 ---
+
 #### Languages and Tools:
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -16,6 +17,7 @@ I'm a PhD student at ITMO Univeristy
 <br/>
 
 ---
+
 #### 📫 my contacts:
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
