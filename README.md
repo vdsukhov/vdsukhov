@@ -17,5 +17,5 @@ I'm a PhD student at ITMO Univeristy
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
 <br/>
 
-[telegram]: https://t.me/skifalan
+[telegram]: https://t.me/vdsukhov
 [mail]: mailto:vdsukhov@yandex.ru
