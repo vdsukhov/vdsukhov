@@ -13,8 +13,8 @@ I'm a PhD student at ITMO Univeristy
 <br/>
 
 #### 📫 my contacts:
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" />][telegram]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" />][mail]
 <br/>
 
 [telegram]: https://t.me/vdsukhov
