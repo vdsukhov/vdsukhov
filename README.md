@@ -1,21 +1,33 @@
-### Hello Everyone
-I'm a PhD student at ITMO Univeristy
+# 👋 Hi There!
 
-#### Areas of interest:
-- <img src = "./icons/math.svg" width = "75"> - math
-- <img src = "./icons/bioinformatics_v1.svg" width = "75"> - bioinformatics
-#### Languages and Tools:
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png />
-<br/>
+## My name is Vladimir Sukhov
 
-#### 📫 my contacts:
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" />][telegram]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" />][mail]
-<br/>
+I'm passionate about exploring the intersections of mathematics, computer science, and bioinformatics.
 
-[telegram]: https://t.me/vdsukhov
-[mail]: mailto:vdsukhov@yandex.ru
+
+## My Areas of Interest
+
+<p align="center">
+    <img src='./pics/areas.png'/>
+</p>
+
+🔢 Mathematics, 💻 Computer Science, and 🔬 Bioinformatics are my playgrounds, where I dance between algorithms, equations, and genetic codes.
+
+## Tech Stack:
+
+- Languages: C++, R, Python, JavaScript
+- Tools: Git, GitHub
+
+## 🔭 Currently Exploring
+
+- Bioinformatics algorithms
+- Data analysis applications in immunology and system biology
+- Image analysis for immunofluorescence images
+
+
+## 🚀 Let's Collaborate:
+Whether it's coding, discussing algorithms, or brainstorming ideas, I'm always up for collaboration! Feel free to reach out and let's build something awesome together.
+
+## 📫 How to Reach Me:
+
+Drop me a message here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/vdsukhov/). Let's connect!
