@@ -8,10 +8,14 @@ I'm passionate about exploring the intersections of mathematics, computer scienc
 ## My Areas of Interest
 
 <p align="center">
-    <img src='./pics/areas.png'/>
+    <img src='./pics/areas.png' height=200 />
 </p>
 
-🔢 Mathematics, 💻 Computer Science, and 🔬 Bioinformatics are my playgrounds, where I dance between algorithms, equations, and genetic codes.
+- 🔢 Mathematics,
+- 💻 Computer Science
+- 🔬 Bioinformatics 
+
+They are my playgrounds, where I dance between algorithms, equations, and genetic codes.
 
 ## Tech Stack:
 
@@ -29,5 +33,9 @@ I'm passionate about exploring the intersections of mathematics, computer scienc
 Whether it's coding, discussing algorithms, or brainstorming ideas, I'm always up for collaboration! Feel free to reach out and let's build something awesome together.
 
 ## 📫 How to Reach Me:
+Drop me a message using one of these options:
 
-Drop me a message here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/vdsukhov/). Let's connect!
+[![Linkedin Badge](https://img.shields.io/badge/-vdsukhov-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vdsukhov/)](https://www.linkedin.com/in/vdsukhov/) [![Gmail Badge](https://img.shields.io/badge/sukhovspace-c14438?color=blue&labelColor=blue&style=flat&logo=Gmail&logoColor=red&link=mailto:sukhovspace@gmail.com)](mailto:sukhovspace@gmail.com)
+
+Let' connect
+
