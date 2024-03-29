@@ -1,11 +1,14 @@
 # 👋 Hi There!
 
-## My name is Vladimir Sukhov
+## My name is Vladimir Sukhov 
 
 I'm passionate about exploring the intersections of mathematics, computer science, and bioinformatics.
 
 
 ## My Areas of Interest
+
+[![Static Badge](https://img.shields.io/badge/sukhov-green?style=flat&logo=google-scholar&logoColor=white&label=google%20scholar&labelColor=blue)](https://scholar.google.com/citations?user=fq_ZfywAAAAJ&hl=en&authuser=1)
+
 
 <p align="center">
     <img src='./pics/areas.png' height=200 />
