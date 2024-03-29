@@ -22,8 +22,18 @@ They are my playgrounds, where I dance between algorithms, equations, and geneti
 
 ## Tech Stack:
 
-- Languages: C++, R, Python, JavaScript
-- Tools: Git, GitHub
+Languages:
+
+![Static Badge](https://img.shields.io/badge/-R-purple?style=flat&logo=r) ![Static Badge](https://img.shields.io/badge/-python-purple?style=flat&logo=python) ![Static Badge](https://img.shields.io/badge/-c%2B%2B-purple?style=flat&logo=c%2B%2B)  ![Static Badge](https://img.shields.io/badge/-javascript-purple?style=flat&logo=javascript)  ![Static Badge](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin) ![Static Badge](https://img.shields.io/badge/-shell%20script-purple?style=flat&logo=gnu-bash&logoColor=blue)
+
+Tools:
+
+![Static Badge](https://img.shields.io/badge/-GIT-blue?style=flat&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/-GITHUB-blue?style=flat&logo=github&logoColor=white) ![Static Badge](https://img.shields.io/badge/-LaTeX-blue?style=flat&logo=latex&logoColor=white) ![Static Badge](https://img.shields.io/badge/-markdown-blue?style=flat&logo=markdown)
+
+
+
+
+
 
 ## 🔭 Currently Exploring
 
