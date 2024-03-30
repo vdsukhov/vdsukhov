@@ -11,7 +11,7 @@ I'm passionate about exploring the intersections of mathematics, computer scienc
 
 
 <p align="center">
-    <img src='./pics/github_areas_of_interest_v2.png' height=200 />
+    <img src='./pics/github_areas_of_interest_v3.png' height=200 />
 </p>
 
 - 🔢 Mathematics,
